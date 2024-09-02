@@ -170,7 +170,7 @@ The `kvlarSolver` function uses the RC4 encryption algorithm to decrypt user cre
 **A:** Root access allows the tool to access restricted system files where the UGGame app stores user credentials, which is crucial for the decryption process.
 
 ### Q12: **What should I do if I cannot find the `user_cache` file?**
-**A:** Ensure that the file path is correct and that you have the necessary permissions to access the file. If the file is still not found, it could be due to app updates or changes in how the app stores data.
+**A:** Ensure that the file path is correct and that you have the necessary permissions to access the file. If the file is still not found, it could be due to app updates or changes in how the app stores data. **Also make sure you have placed an order on the UGGame app**
 
 ### Q13: **If this is illegal, why are you publishing it? Isn’t it possible that someone might use it for illegal purposes?**
 **A:** Yes, I am aware of that. Before addressing this concern, it's important to understand the purpose of KvlarG. While it's true that someone could misuse the tool, it is ultimately the responsibility of each individual to use it ethically and legally.
