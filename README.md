@@ -84,7 +84,7 @@ KvlarG is created for educational purposes to provide a deeper understanding of 
 4. Follow the on-screen instructions.
 
 ### Demo Video
-Check out our [Demo Video](https://github.com/kvlarbyte/KvlarG/docs/demo.mp4) to see the tool in action.
+Check out our [Demo Video](https://github.com/kvlarbyte/KvlarG/raw/main/docs/demo.mp4) to see the tool in action.
 
 
 
