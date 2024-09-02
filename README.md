@@ -84,7 +84,11 @@ KvlarG is created for educational purposes to provide a deeper understanding of 
 4. Follow the on-screen instructions.
 
 ### Demo Video
-Check out our [Demo Video](https://github.com/kvlarbyte/KvlarG/raw/main/docs/demo.mp4) to see the tool in action.
+Check out our demo video to see KvlarG in action:
+
+[![Watch the demo video](https://img.youtube.com/vi/EcZeC4mSazE/hqdefault.jpg)](https://youtu.be/EcZeC4mSazE?si=FlAwy4u9Jqxf9YCL)
+
+*Video Disclaimer:* This video is provided for educational and demonstration purposes only. It showcases how to use the tool in a controlled environment. The creator does not endorse or encourage any illegal activities or unethical behavior. The use of this tool should comply with all applicable laws and regulations. The creator is not responsible for any misuse of the information or software shown in this video.
 
 
 
