@@ -161,7 +161,7 @@ The `kvlarSolver` function uses the RC4 encryption algorithm to decrypt user cre
 **A:** As this tool is created for educational purposes, official support is limited. However, you can reach out to the developer via the contact information provided.
 
 ### Q9: **Can KvlarG be modified for other applications?**
-**A:** While it is technically possible to modify KvlarG for other applications, doing so could violate legal and ethical guidelines. It is strongly advised to use this tool only for its intended educational purpose.
+**A:** No, while it is technically possible to modify KvlarG for other applications, doing so could violate legal and ethical guidelines. It is strongly advised to use this tool only for its intended educational purpose.
 
 ### Q10: **Where can I see a demonstration of KvlarG?**
 **A:** A demo video is available, showcasing how to use the tool. You can find it linked in the Usage section of this document.
