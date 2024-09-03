@@ -46,10 +46,10 @@ KvlarG is created for educational purposes to provide a deeper understanding of 
 
 ## Disclaimer
 **English:**
-> This tool was created solely for educational and documentation purposes. I do not support or encourage any kind of hacking or unethical use of the information provided. I am not responsible for inappropriate use of the information provided by these tools.
+> This tool was created solely for fun, work, educational and documentation purposes only. educational and documentation purposes. I do not support or encourage any kind of hacking or unethical use of the information provided. I am not responsible for inappropriate use of the information provided by these tools.
 
 **Indonesia:**
-> Alat ini dibuat semata-mata untuk tujuan edukasi dan dokumentasi. Saya tidak mendukung atau mendorong segala jenis peretasan atau penggunaan yang tidak etis atas informasi yang diberikan. Saya tidak bertanggung jawab atas penggunaan yang tidak tepat dari informasi yang disediakan oleh tools ini.
+> Alat ini dibuat hanya untuk tujuan bersenang-senang, pekerjaan, pendidikan dan dokumentasi saja. Saya tidak mendukung atau mendorong segala jenis peretasan atau penggunaan yang tidak etis atas informasi yang diberikan. Saya tidak bertanggung jawab atas penggunaan yang tidak tepat dari informasi yang disediakan oleh tools ini.
 
 
 
