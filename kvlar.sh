@@ -94,9 +94,20 @@ if [ -z "$rawAccount" ] || [ -z "$rawPassword" ]; then
     echo "[LOGS]:  email and password failed to be retrieved!"
 else
     account=$(kvlarSolver "$decryptionKey" "$rawAccount")
+    if [ $? -ne 0 ] || [ -z "$account" ]; then
+        echo "[ERROR]: failed to decrypt email!"
+        exit 1
+    fi
     password=$(kvlarSolver "$decryptionKey" "$rawPassword")
+    if [ $? -ne 0 ] || [ -z "$password" ]; then
+        echo "[ERROR]: failed to decrypt password!"
+        exit 1
+    fi
     if [ -n "$account" ] && [ -n "$password" ]; then
         echo "[LOGS]:  email and password successfully retrieved!"
+    else
+        echo "[LOGS]:  email and password failed to be retrieved!"
+        exit 1
     fi
 fi
 # -- Saves credentials to logs.
