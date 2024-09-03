@@ -117,7 +117,7 @@ The `kvlarSolver` function uses the RC4 encryption algorithm to decrypt user cre
 
 ### Troubleshooting
 - Common issues:
-  - `user_cache not found`: Ensure the file path is correct.
+  - `user_cache not found`: Ensure the file path is correct (Make sure that u have made a purchase on uggame).
   - `email and password failed to be retrieved`: Ensure the correct decryption key and data format.
 
 
